@@ -1,0 +1,31 @@
+.nav-pills{
+  padding: 0;
+  margin-bottom: 0;
+  border: none;
+  font-family:PT Serif;
+  font-size: 1.7em;
+  background-color: rgba(0, 0, 20, .2);
+  background-image: none;
+}
+
+body{
+    font-family:PT Serif;
+    color:white;
+    background-color: #262626;
+    background-image: none;
+}
+.pageOne{
+    background:url("http://seejanemangan.com/wp-content/themes/organic_profile/images/background.jpg");
+    height: 800px;
+}
+h1 {
+    font-size: 5em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+.block {
+    padding-top: 200px;
+}
