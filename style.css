@@ -8,6 +8,7 @@
 }
 
 body{
+
     font-family:PT Serif;
     color:white;
     background-color: #262626;
@@ -22,16 +23,40 @@ h3 {
     font-size: 2em;
 }
 
+#about h2 {
+    color: black;
+    font-size: 3em;
+}
+
+#about h3 {
+    color:black;
+
+}
+
+#about p {
+    color: white;
+    font-size: 20px;
+    
+}
+#about img {
+    border-radius: 50%;
+    max-width: 250px;
+    margin-top: 100px;
+}
 .pageOne{
     background:url("http://seejanemangan.com/wp-content/themes/organic_profile/images/background.jpg") 50% 0 repeat fixed;
     height: 800px;
 }
 
-.pageTwo {
-    background:url("https://4.bp.blogspot.com/-RXMWpc3-0EQ/VdBj_BPpYWI/AAAAAAABxUA/BgojXlfzmMc/s0/Hot_Coffee_Cup_and_Newspaper2_wallpaper.jpg") 50% 0 repeat fixed;
+#about {
+    background:url("http://wallpapercave.com/wp/GProxpt.jpg") 50% 0 repeat fixed;
     background-size: cover;
     height:800px;
+    display: block;
+    text-align: left;
+    padding-top: 100px;
 }
+
 .block {
     padding-top: 200px;
 }
