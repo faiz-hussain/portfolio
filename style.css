@@ -1,11 +1,10 @@
 .nav-pills{
-  padding: 0;
-  margin-bottom: 0;
-  border: none;
+  padding:0;
+  background-color: rgba(0, 0, 20, 0.8);
+  background-image:none;
+  border-radius: 5px;
   font-family:PT Serif;
   font-size: 1.7em;
-  background-color: rgba(0, 0, 20, .2);
-  background-image: none;
 }
 
 body{
