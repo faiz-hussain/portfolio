@@ -13,10 +13,7 @@ body{
     background-color: #262626;
     background-image: none;
 }
-.pageOne{
-    background:url("http://seejanemangan.com/wp-content/themes/organic_profile/images/background.jpg");
-    height: 800px;
-}
+
 h1 {
     font-size: 5em;
 }
@@ -25,6 +22,16 @@ h3 {
     font-size: 2em;
 }
 
+.pageOne{
+    background:url("http://seejanemangan.com/wp-content/themes/organic_profile/images/background.jpg") 50% 0 repeat fixed;
+    height: 800px;
+}
+
+.pageTwo {
+    background:url("https://4.bp.blogspot.com/-RXMWpc3-0EQ/VdBj_BPpYWI/AAAAAAABxUA/BgojXlfzmMc/s0/Hot_Coffee_Cup_and_Newspaper2_wallpaper.jpg") 50% 0 repeat fixed;
+    background-size: cover;
+    height:800px;
+}
 .block {
     padding-top: 200px;
 }
